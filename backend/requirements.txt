@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+websockets
+pytest
+pytest-asyncio
+httpx
+anthropic
+openai
+respx
